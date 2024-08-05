@@ -1,3 +1,4 @@
+# The Outfit Recommendation System
 Overview :- 
 The Outfit Recommendation System is a machine learning-based application designed to suggest outfits based on user preferences, including gender, mood, weather, and occasion. The system utilizes a RandomForestClassifier to predict suitable outfits from a predefined dataset. Additionally, users can create a personalized wardrobe and get suggestions based on their selected items.
 
