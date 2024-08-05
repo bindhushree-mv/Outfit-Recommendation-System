@@ -1,0 +1,1001 @@
+Sl.no,Gender,Mood,Weather,Occasion,Output
+1,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+2,Male,Excited,Sunny,Ethnic,"The kurta features delicate mirror work, adding a festive sparkle that complements the sunny weather."
+3,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+4,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+5,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+6,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+7,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+8,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+9,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+10,Male,Excited,Rainy,Ethnic,A bright yellow silk kurta with intricate embroidery paired with a white churidar.
+11,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+12,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+13,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+14,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.The vibrant colors and intricate designs reflect a joyful and celebratory mood.
+15,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+16,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+17,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+18,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+19,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+20,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+21,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+22,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+23,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+24,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+25,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+26,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+27,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+28,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+29,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+30,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+31,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+32,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+33,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+34,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+35,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+36,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+37,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+38,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+39,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+40,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+41,Male,Droopy,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+42,Male,Droopy,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+43,Male,Droopy,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+44,Male,Droopy,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+45,Male,Droopy,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+46,Male,Droopy,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+47,Male,Droopy,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+48,Male,Droopy,Cool,Casual,A casual t-shirt with jeans and sneakers.
+49,Male,Sad,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+50,Male,Sad,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+51,Male,Sad,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+52,Male,Sad,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+53,Male,Sad,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+54,Male,Sad,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+55,Male,Sad,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+56,Male,Sad,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+57,Male,Sad,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+58,Male,Sad,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+59,Male,Sad,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+60,Male,Sad,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+61,Male,Sad,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+62,Male,Sad,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+63,Male,Sad,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+64,Male,Sad,Cool,Casual,A casual t-shirt with jeans and sneakers.
+65,Female,Excited,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+66,Female,Excited,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+67,Female,Excited,Sunny,Party,A cocktail dress with stylish accessories.
+68,Female,Excited,Sunny,Casual,A casual blouse with jeans and flats.
+69,Female,Excited,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+70,Female,Excited,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+71,Female,Excited,Cloudy,Party,A cocktail dress with stylish accessories.
+72,Female,Excited,Cloudy,Casual,A casual blouse with jeans and flats.
+73,Female,Excited,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+74,Female,Excited,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+75,Female,Excited,Rainy,Party,A cocktail dress with stylish accessories.
+76,Female,Excited,Rainy,Casual,A casual blouse with jeans and flats.
+77,Female,Excited,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+78,Female,Excited,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+79,Female,Excited,Cool,Party,A cocktail dress with stylish accessories.
+80,Female,Excited,Cool,Casual,A casual blouse with jeans and flats.
+81,Female,Mellow,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+82,Female,Mellow,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+83,Female,Mellow,Sunny,Party,A cocktail dress with stylish accessories.
+84,Female,Mellow,Sunny,Casual,A casual blouse with jeans and flats.
+85,Female,Mellow,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+86,Female,Mellow,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+87,Female,Mellow,Cloudy,Party,A cocktail dress with stylish accessories.
+88,Female,Mellow,Cloudy,Casual,A casual blouse with jeans and flats.
+89,Female,Mellow,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+90,Female,Mellow,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+91,Female,Mellow,Rainy,Party,A cocktail dress with stylish accessories.
+92,Female,Mellow,Rainy,Casual,A casual blouse with jeans and flats.
+93,Female,Mellow,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+94,Female,Mellow,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+95,Female,Mellow,Cool,Party,A cocktail dress with stylish accessories.
+96,Female,Mellow,Cool,Casual,A casual blouse with jeans and flats.
+97,Female,Droopy,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+98,Female,Droopy,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+99,Female,Droopy,Sunny,Party,A cocktail dress with stylish accessories.
+100,Female,Droopy,Sunny,Casual,A casual blouse with jeans and flats.
+101,Female,Droopy,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+102,Female,Droopy,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+103,Female,Droopy,Cloudy,Party,A cocktail dress with stylish accessories.
+104,Female,Droopy,Cloudy,Casual,A casual blouse with jeans and flats.
+105,Female,Droopy,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+106,Female,Droopy,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+107,Female,Droopy,Rainy,Party,A cocktail dress with stylish accessories.
+108,Female,Droopy,Rainy,Casual,A casual blouse with jeans and flats.
+109,Female,Droopy,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+110,Female,Droopy,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+111,Female,Droopy,Cool,Party,A cocktail dress with stylish accessories.
+112,Female,Droopy,Cool,Casual,A casual blouse with jeans and flats.
+113,Female,Sad,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+114,Female,Sad,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+115,Female,Sad,Sunny,Party,A cocktail dress with stylish accessories.
+116,Female,Sad,Sunny,Casual,A casual blouse with jeans and flats.
+117,Female,Sad,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+118,Female,Sad,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+119,Female,Sad,Cloudy,Party,A cocktail dress with stylish accessories.
+120,Female,Sad,Cloudy,Casual,A casual blouse with jeans and flats.
+121,Female,Sad,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+122,Female,Sad,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+123,Female,Sad,Rainy,Party,A cocktail dress with stylish accessories.
+124,Female,Sad,Rainy,Casual,A casual blouse with jeans and flats.
+125,Female,Sad,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+126,Female,Sad,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+127,Female,Sad,Cool,Party,A cocktail dress with stylish accessories.
+128,Female,Sad,Cool,Casual,A casual blouse with jeans and flats.
+129,Others,Excited,Sunny,Formal,Default outfit description.
+130,Others,Excited,Sunny,Ethnic,Default outfit description.
+131,Others,Excited,Sunny,Party,Default outfit description.
+132,Others,Excited,Sunny,Casual,Default outfit description.
+133,Others,Excited,Cloudy,Formal,Default outfit description.
+134,Others,Excited,Cloudy,Ethnic,Default outfit description.
+135,Others,Excited,Cloudy,Party,Default outfit description.
+136,Others,Excited,Cloudy,Casual,Default outfit description.
+137,Others,Excited,Rainy,Formal,Default outfit description.
+138,Others,Excited,Rainy,Ethnic,Default outfit description.
+139,Others,Excited,Rainy,Party,Default outfit description.
+140,Others,Excited,Rainy,Casual,Default outfit description.
+141,Others,Excited,Cool,Formal,Default outfit description.
+142,Others,Excited,Cool,Ethnic,Default outfit description.
+143,Others,Excited,Cool,Party,Default outfit description.
+144,Others,Excited,Cool,Casual,Default outfit description.
+145,Others,Mellow,Sunny,Formal,Default outfit description.
+146,Others,Mellow,Sunny,Ethnic,Default outfit description.
+147,Others,Mellow,Sunny,Party,Default outfit description.
+148,Others,Mellow,Sunny,Casual,Default outfit description.
+149,Others,Mellow,Cloudy,Formal,Default outfit description.
+150,Others,Mellow,Cloudy,Ethnic,Default outfit description.
+151,Others,Mellow,Cloudy,Party,Default outfit description.
+152,Others,Mellow,Cloudy,Casual,Default outfit description.
+153,Others,Mellow,Rainy,Formal,Default outfit description.
+154,Others,Mellow,Rainy,Ethnic,Default outfit description.
+155,Others,Mellow,Rainy,Party,Default outfit description.
+156,Others,Mellow,Rainy,Casual,Default outfit description.
+157,Others,Mellow,Cool,Formal,Default outfit description.
+158,Others,Mellow,Cool,Ethnic,Default outfit description.
+159,Others,Mellow,Cool,Party,Default outfit description.
+160,Others,Mellow,Cool,Casual,Default outfit description.
+161,Others,Droopy,Sunny,Formal,Default outfit description.
+162,Others,Droopy,Sunny,Ethnic,Default outfit description.
+163,Others,Droopy,Sunny,Party,Default outfit description.
+164,Others,Droopy,Sunny,Casual,Default outfit description.
+165,Others,Droopy,Cloudy,Formal,Default outfit description.
+166,Others,Droopy,Cloudy,Ethnic,Default outfit description.
+167,Others,Droopy,Cloudy,Party,Default outfit description.
+168,Others,Droopy,Cloudy,Casual,Default outfit description.
+169,Others,Droopy,Rainy,Formal,Default outfit description.
+170,Others,Droopy,Rainy,Ethnic,Default outfit description.
+171,Others,Droopy,Rainy,Party,Default outfit description.
+172,Others,Droopy,Rainy,Casual,Default outfit description.
+173,Others,Droopy,Cool,Formal,Default outfit description.
+174,Others,Droopy,Cool,Ethnic,Default outfit description.
+175,Others,Droopy,Cool,Party,Default outfit description.
+176,Others,Droopy,Cool,Casual,Default outfit description.
+177,Others,Sad,Sunny,Formal,Default outfit description.
+178,Others,Sad,Sunny,Ethnic,Default outfit description.
+179,Others,Sad,Sunny,Party,Default outfit description.
+180,Others,Sad,Sunny,Casual,Default outfit description.
+181,Others,Sad,Cloudy,Formal,Default outfit description.
+182,Others,Sad,Cloudy,Ethnic,Default outfit description.
+183,Others,Sad,Cloudy,Party,Default outfit description.
+184,Others,Sad,Cloudy,Casual,Default outfit description.
+185,Others,Sad,Rainy,Formal,Default outfit description.
+186,Others,Sad,Rainy,Ethnic,Default outfit description.
+187,Others,Sad,Rainy,Party,Default outfit description.
+188,Others,Sad,Rainy,Casual,Default outfit description.
+189,Others,Sad,Cool,Formal,Default outfit description.
+190,Others,Sad,Cool,Ethnic,Default outfit description.
+191,Others,Sad,Cool,Party,Default outfit description.
+192,Others,Sad,Cool,Casual,Default outfit description.
+193,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+194,Male,Excited,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+195,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+196,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+197,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+198,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+199,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+200,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+201,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+202,Male,Excited,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+203,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+204,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+205,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+206,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+207,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+208,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+209,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+210,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+211,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+212,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+213,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+214,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+215,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+216,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+217,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+218,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+219,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+220,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+221,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+222,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+223,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+224,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+225,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+226,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+227,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+228,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+229,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+230,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+231,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+232,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+233,Male,Droopy,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+234,Male,Droopy,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+235,Male,Droopy,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+236,Male,Droopy,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+237,Male,Droopy,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+238,Male,Droopy,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+239,Male,Droopy,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+240,Male,Droopy,Cool,Casual,A casual t-shirt with jeans and sneakers.
+241,Male,Sad,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+242,Male,Sad,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+243,Male,Sad,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+244,Male,Sad,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+245,Male,Sad,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+246,Male,Sad,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+247,Male,Sad,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+248,Male,Sad,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+249,Male,Sad,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+250,Male,Sad,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+251,Male,Sad,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+252,Male,Sad,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+253,Male,Sad,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+254,Male,Sad,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+255,Male,Sad,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+256,Male,Sad,Cool,Casual,A casual t-shirt with jeans and sneakers.
+257,Female,Excited,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+258,Female,Excited,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+259,Female,Excited,Sunny,Party,A cocktail dress with stylish accessories.
+260,Female,Excited,Sunny,Casual,A casual blouse with jeans and flats.
+261,Female,Excited,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+262,Female,Excited,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+263,Female,Excited,Cloudy,Party,A cocktail dress with stylish accessories.
+264,Female,Excited,Cloudy,Casual,A casual blouse with jeans and flats.
+265,Female,Excited,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+266,Female,Excited,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+267,Female,Excited,Rainy,Party,A cocktail dress with stylish accessories.
+268,Female,Excited,Rainy,Casual,A casual blouse with jeans and flats.
+269,Female,Excited,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+270,Female,Excited,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+271,Female,Excited,Cool,Party,A cocktail dress with stylish accessories.
+272,Female,Excited,Cool,Casual,A casual blouse with jeans and flats.
+273,Female,Mellow,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+274,Female,Mellow,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+275,Female,Mellow,Sunny,Party,A cocktail dress with stylish accessories.
+276,Female,Mellow,Sunny,Casual,A casual blouse with jeans and flats.
+277,Female,Mellow,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+278,Female,Mellow,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+279,Female,Mellow,Cloudy,Party,A cocktail dress with stylish accessories.
+280,Female,Mellow,Cloudy,Casual,A casual blouse with jeans and flats.
+281,Female,Mellow,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+282,Female,Mellow,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+283,Female,Mellow,Rainy,Party,A cocktail dress with stylish accessories.
+284,Female,Mellow,Rainy,Casual,A casual blouse with jeans and flats.
+285,Female,Mellow,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+286,Female,Mellow,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+287,Female,Mellow,Cool,Party,A cocktail dress with stylish accessories.
+288,Female,Mellow,Cool,Casual,A casual blouse with jeans and flats.
+289,Female,Droopy,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+290,Female,Droopy,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+291,Female,Droopy,Sunny,Party,A cocktail dress with stylish accessories.
+292,Female,Droopy,Sunny,Casual,A casual blouse with jeans and flats.
+293,Female,Droopy,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+294,Female,Droopy,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+295,Female,Droopy,Cloudy,Party,A cocktail dress with stylish accessories.
+296,Female,Droopy,Cloudy,Casual,A casual blouse with jeans and flats.
+297,Female,Droopy,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+298,Female,Droopy,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+299,Female,Droopy,Rainy,Party,A cocktail dress with stylish accessories.
+300,Female,Droopy,Rainy,Casual,A casual blouse with jeans and flats.
+301,Female,Droopy,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+302,Female,Droopy,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+303,Female,Droopy,Cool,Party,A cocktail dress with stylish accessories.
+304,Female,Droopy,Cool,Casual,A casual blouse with jeans and flats.
+305,Female,Sad,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+306,Female,Sad,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+307,Female,Sad,Sunny,Party,A cocktail dress with stylish accessories.
+308,Female,Sad,Sunny,Casual,A casual blouse with jeans and flats.
+309,Female,Sad,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+310,Female,Sad,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+311,Female,Sad,Cloudy,Party,A cocktail dress with stylish accessories.
+312,Female,Sad,Cloudy,Casual,A casual blouse with jeans and flats.
+313,Female,Sad,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+314,Female,Sad,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+315,Female,Sad,Rainy,Party,A cocktail dress with stylish accessories.
+316,Female,Sad,Rainy,Casual,A casual blouse with jeans and flats.
+317,Female,Sad,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+318,Female,Sad,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+319,Female,Sad,Cool,Party,A cocktail dress with stylish accessories.
+320,Female,Sad,Cool,Casual,A casual blouse with jeans and flats.
+321,Others,Excited,Sunny,Formal,Default outfit description.
+322,Others,Excited,Sunny,Ethnic,Default outfit description.
+323,Others,Excited,Sunny,Party,Default outfit description.
+324,Others,Excited,Sunny,Casual,Default outfit description.
+325,Others,Excited,Cloudy,Formal,Default outfit description.
+326,Others,Excited,Cloudy,Ethnic,Default outfit description.
+327,Others,Excited,Cloudy,Party,Default outfit description.
+328,Others,Excited,Cloudy,Casual,Default outfit description.
+329,Others,Excited,Rainy,Formal,Default outfit description.
+330,Others,Excited,Rainy,Ethnic,Default outfit description.
+331,Others,Excited,Rainy,Party,Default outfit description.
+332,Others,Excited,Rainy,Casual,Default outfit description.
+333,Others,Excited,Cool,Formal,Default outfit description.
+334,Others,Excited,Cool,Ethnic,Default outfit description.
+335,Others,Excited,Cool,Party,Default outfit description.
+336,Others,Excited,Cool,Casual,Default outfit description.
+337,Others,Mellow,Sunny,Formal,Default outfit description.
+338,Others,Mellow,Sunny,Ethnic,Default outfit description.
+339,Others,Mellow,Sunny,Party,Default outfit description.
+340,Others,Mellow,Sunny,Casual,Default outfit description.
+341,Others,Mellow,Cloudy,Formal,Default outfit description.
+342,Others,Mellow,Cloudy,Ethnic,Default outfit description.
+343,Others,Mellow,Cloudy,Party,Default outfit description.
+344,Others,Mellow,Cloudy,Casual,Default outfit description.
+345,Others,Mellow,Rainy,Formal,Default outfit description.
+346,Others,Mellow,Rainy,Ethnic,Default outfit description.
+347,Others,Mellow,Rainy,Party,Default outfit description.
+348,Others,Mellow,Rainy,Casual,Default outfit description.
+349,Others,Mellow,Cool,Formal,Default outfit description.
+350,Others,Mellow,Cool,Ethnic,Default outfit description.
+351,Others,Mellow,Cool,Party,Default outfit description.
+352,Others,Mellow,Cool,Casual,Default outfit description.
+353,Others,Droopy,Sunny,Formal,Default outfit description.
+354,Others,Droopy,Sunny,Ethnic,Default outfit description.
+355,Others,Droopy,Sunny,Party,Default outfit description.
+356,Others,Droopy,Sunny,Casual,Default outfit description.
+357,Others,Droopy,Cloudy,Formal,Default outfit description.
+358,Others,Droopy,Cloudy,Ethnic,Default outfit description.
+359,Others,Droopy,Cloudy,Party,Default outfit description.
+360,Others,Droopy,Cloudy,Casual,Default outfit description.
+361,Others,Droopy,Rainy,Formal,Default outfit description.
+362,Others,Droopy,Rainy,Ethnic,Default outfit description.
+363,Others,Droopy,Rainy,Party,Default outfit description.
+364,Others,Droopy,Rainy,Casual,Default outfit description.
+365,Others,Droopy,Cool,Formal,Default outfit description.
+366,Others,Droopy,Cool,Ethnic,Default outfit description.
+367,Others,Droopy,Cool,Party,Default outfit description.
+368,Others,Droopy,Cool,Casual,Default outfit description.
+369,Others,Sad,Sunny,Formal,Default outfit description.
+370,Others,Sad,Sunny,Ethnic,Default outfit description.
+371,Others,Sad,Sunny,Party,Default outfit description.
+372,Others,Sad,Sunny,Casual,Default outfit description.
+373,Others,Sad,Cloudy,Formal,Default outfit description.
+374,Others,Sad,Cloudy,Ethnic,Default outfit description.
+375,Others,Sad,Cloudy,Party,Default outfit description.
+376,Others,Sad,Cloudy,Casual,Default outfit description.
+377,Others,Sad,Rainy,Formal,Default outfit description.
+378,Others,Sad,Rainy,Ethnic,Default outfit description.
+379,Others,Sad,Rainy,Party,Default outfit description.
+380,Others,Sad,Rainy,Casual,Default outfit description.
+381,Others,Sad,Cool,Formal,Default outfit description.
+382,Others,Sad,Cool,Ethnic,Default outfit description.
+383,Others,Sad,Cool,Party,Default outfit description.
+384,Others,Sad,Cool,Casual,Default outfit description.
+385,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+386,Male,Excited,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+387,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+388,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+389,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+390,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+391,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+392,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+393,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+394,Male,Excited,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+395,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+396,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+397,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+398,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+399,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+400,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+401,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+402,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+403,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+404,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+405,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+406,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+407,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+408,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+409,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+410,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+411,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+412,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+413,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+414,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+415,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+416,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+417,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+418,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+419,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+420,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+421,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+422,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+423,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+424,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+425,Male,Droopy,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+426,Male,Droopy,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+427,Male,Droopy,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+428,Male,Droopy,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+429,Male,Droopy,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+430,Male,Droopy,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+431,Male,Droopy,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+432,Male,Droopy,Cool,Casual,A casual t-shirt with jeans and sneakers.
+433,Male,Sad,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+434,Male,Sad,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+435,Male,Sad,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+436,Male,Sad,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+437,Male,Sad,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+438,Male,Sad,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+439,Male,Sad,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+440,Male,Sad,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+441,Male,Sad,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+442,Male,Sad,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+443,Male,Sad,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+444,Male,Sad,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+445,Male,Sad,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+446,Male,Sad,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+447,Male,Sad,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+448,Male,Sad,Cool,Casual,A casual t-shirt with jeans and sneakers.
+449,Female,Excited,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+450,Female,Excited,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+451,Female,Excited,Sunny,Party,A cocktail dress with stylish accessories.
+452,Female,Excited,Sunny,Casual,A casual blouse with jeans and flats.
+453,Female,Excited,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+454,Female,Excited,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+455,Female,Excited,Cloudy,Party,A cocktail dress with stylish accessories.
+456,Female,Excited,Cloudy,Casual,A casual blouse with jeans and flats.
+457,Female,Excited,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+458,Female,Excited,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+459,Female,Excited,Rainy,Party,A cocktail dress with stylish accessories.
+460,Female,Excited,Rainy,Casual,A casual blouse with jeans and flats.
+461,Female,Excited,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+462,Female,Excited,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+463,Female,Excited,Cool,Party,A cocktail dress with stylish accessories.
+464,Female,Excited,Cool,Casual,A casual blouse with jeans and flats.
+465,Female,Mellow,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+466,Female,Mellow,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+467,Female,Mellow,Sunny,Party,A cocktail dress with stylish accessories.
+468,Female,Mellow,Sunny,Casual,A casual blouse with jeans and flats.
+469,Female,Mellow,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+470,Female,Mellow,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+471,Female,Mellow,Cloudy,Party,A cocktail dress with stylish accessories.
+472,Female,Mellow,Cloudy,Casual,A casual blouse with jeans and flats.
+473,Female,Mellow,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+474,Female,Mellow,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+475,Female,Mellow,Rainy,Party,A cocktail dress with stylish accessories.
+476,Female,Mellow,Rainy,Casual,A casual blouse with jeans and flats.
+477,Female,Mellow,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+478,Female,Mellow,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+479,Female,Mellow,Cool,Party,A cocktail dress with stylish accessories.
+480,Female,Mellow,Cool,Casual,A casual blouse with jeans and flats.
+481,Female,Droopy,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+482,Female,Droopy,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+483,Female,Droopy,Sunny,Party,A cocktail dress with stylish accessories.
+484,Female,Droopy,Sunny,Casual,A casual blouse with jeans and flats.
+485,Female,Droopy,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+486,Female,Droopy,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+487,Female,Droopy,Cloudy,Party,A cocktail dress with stylish accessories.
+488,Female,Droopy,Cloudy,Casual,A casual blouse with jeans and flats.
+489,Female,Droopy,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+490,Female,Droopy,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+491,Female,Droopy,Rainy,Party,A cocktail dress with stylish accessories.
+492,Female,Droopy,Rainy,Casual,A casual blouse with jeans and flats.
+493,Female,Droopy,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+494,Female,Droopy,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+495,Female,Droopy,Cool,Party,A cocktail dress with stylish accessories.
+496,Female,Droopy,Cool,Casual,A casual blouse with jeans and flats.
+497,Female,Sad,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+498,Female,Sad,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+499,Female,Sad,Sunny,Party,A cocktail dress with stylish accessories.
+500,Female,Sad,Sunny,Casual,A casual blouse with jeans and flats.
+501,Female,Sad,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+502,Female,Sad,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+503,Female,Sad,Cloudy,Party,A cocktail dress with stylish accessories.
+504,Female,Sad,Cloudy,Casual,A casual blouse with jeans and flats.
+505,Female,Sad,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+506,Female,Sad,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+507,Female,Sad,Rainy,Party,A cocktail dress with stylish accessories.
+508,Female,Sad,Rainy,Casual,A casual blouse with jeans and flats.
+509,Female,Sad,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+510,Female,Sad,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+511,Female,Sad,Cool,Party,A cocktail dress with stylish accessories.
+512,Female,Sad,Cool,Casual,A casual blouse with jeans and flats.
+513,Others,Excited,Sunny,Formal,Default outfit description.
+514,Others,Excited,Sunny,Ethnic,Default outfit description.
+515,Others,Excited,Sunny,Party,Default outfit description.
+516,Others,Excited,Sunny,Casual,Default outfit description.
+517,Others,Excited,Cloudy,Formal,Default outfit description.
+518,Others,Excited,Cloudy,Ethnic,Default outfit description.
+519,Others,Excited,Cloudy,Party,Default outfit description.
+520,Others,Excited,Cloudy,Casual,Default outfit description.
+521,Others,Excited,Rainy,Formal,Default outfit description.
+522,Others,Excited,Rainy,Ethnic,Default outfit description.
+523,Others,Excited,Rainy,Party,Default outfit description.
+524,Others,Excited,Rainy,Casual,Default outfit description.
+525,Others,Excited,Cool,Formal,Default outfit description.
+526,Others,Excited,Cool,Ethnic,Default outfit description.
+527,Others,Excited,Cool,Party,Default outfit description.
+528,Others,Excited,Cool,Casual,Default outfit description.
+529,Others,Mellow,Sunny,Formal,Default outfit description.
+530,Others,Mellow,Sunny,Ethnic,Default outfit description.
+531,Others,Mellow,Sunny,Party,Default outfit description.
+532,Others,Mellow,Sunny,Casual,Default outfit description.
+533,Others,Mellow,Cloudy,Formal,Default outfit description.
+534,Others,Mellow,Cloudy,Ethnic,Default outfit description.
+535,Others,Mellow,Cloudy,Party,Default outfit description.
+536,Others,Mellow,Cloudy,Casual,Default outfit description.
+537,Others,Mellow,Rainy,Formal,Default outfit description.
+538,Others,Mellow,Rainy,Ethnic,Default outfit description.
+539,Others,Mellow,Rainy,Party,Default outfit description.
+540,Others,Mellow,Rainy,Casual,Default outfit description.
+541,Others,Mellow,Cool,Formal,Default outfit description.
+542,Others,Mellow,Cool,Ethnic,Default outfit description.
+543,Others,Mellow,Cool,Party,Default outfit description.
+544,Others,Mellow,Cool,Casual,Default outfit description.
+545,Others,Droopy,Sunny,Formal,Default outfit description.
+546,Others,Droopy,Sunny,Ethnic,Default outfit description.
+547,Others,Droopy,Sunny,Party,Default outfit description.
+548,Others,Droopy,Sunny,Casual,Default outfit description.
+549,Others,Droopy,Cloudy,Formal,Default outfit description.
+550,Others,Droopy,Cloudy,Ethnic,Default outfit description.
+551,Others,Droopy,Cloudy,Party,Default outfit description.
+552,Others,Droopy,Cloudy,Casual,Default outfit description.
+553,Others,Droopy,Rainy,Formal,Default outfit description.
+554,Others,Droopy,Rainy,Ethnic,Default outfit description.
+555,Others,Droopy,Rainy,Party,Default outfit description.
+556,Others,Droopy,Rainy,Casual,Default outfit description.
+557,Others,Droopy,Cool,Formal,Default outfit description.
+558,Others,Droopy,Cool,Ethnic,Default outfit description.
+559,Others,Droopy,Cool,Party,Default outfit description.
+560,Others,Droopy,Cool,Casual,Default outfit description.
+561,Others,Sad,Sunny,Formal,Default outfit description.
+562,Others,Sad,Sunny,Ethnic,Default outfit description.
+563,Others,Sad,Sunny,Party,Default outfit description.
+564,Others,Sad,Sunny,Casual,Default outfit description.
+565,Others,Sad,Cloudy,Formal,Default outfit description.
+566,Others,Sad,Cloudy,Ethnic,Default outfit description.
+567,Others,Sad,Cloudy,Party,Default outfit description.
+568,Others,Sad,Cloudy,Casual,Default outfit description.
+569,Others,Sad,Rainy,Formal,Default outfit description.
+570,Others,Sad,Rainy,Ethnic,Default outfit description.
+571,Others,Sad,Rainy,Party,Default outfit description.
+572,Others,Sad,Rainy,Casual,Default outfit description.
+573,Others,Sad,Cool,Formal,Default outfit description.
+574,Others,Sad,Cool,Ethnic,Default outfit description.
+575,Others,Sad,Cool,Party,Default outfit description.
+576,Others,Sad,Cool,Casual,Default outfit description.
+577,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+578,Male,Excited,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+579,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+580,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+581,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+582,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+583,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+584,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+585,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+586,Male,Excited,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+587,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+588,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+589,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+590,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+591,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+592,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+593,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+594,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+595,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+596,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+597,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+598,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+599,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+600,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+601,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+602,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+603,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+604,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+605,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+606,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+607,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+608,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+609,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+610,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+611,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+612,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+613,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+614,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+615,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+616,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+617,Male,Droopy,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+618,Male,Droopy,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+619,Male,Droopy,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+620,Male,Droopy,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+621,Male,Droopy,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+622,Male,Droopy,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+623,Male,Droopy,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+624,Male,Droopy,Cool,Casual,A casual t-shirt with jeans and sneakers.
+625,Male,Sad,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+626,Male,Sad,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+627,Male,Sad,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+628,Male,Sad,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+629,Male,Sad,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+630,Male,Sad,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+631,Male,Sad,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+632,Male,Sad,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+633,Male,Sad,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+634,Male,Sad,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+635,Male,Sad,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+636,Male,Sad,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+637,Male,Sad,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+638,Male,Sad,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+639,Male,Sad,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+640,Male,Sad,Cool,Casual,A casual t-shirt with jeans and sneakers.
+641,Female,Excited,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+642,Female,Excited,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+643,Female,Excited,Sunny,Party,A cocktail dress with stylish accessories.
+644,Female,Excited,Sunny,Casual,A casual blouse with jeans and flats.
+645,Female,Excited,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+646,Female,Excited,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+647,Female,Excited,Cloudy,Party,A cocktail dress with stylish accessories.
+648,Female,Excited,Cloudy,Casual,A casual blouse with jeans and flats.
+649,Female,Excited,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+650,Female,Excited,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+651,Female,Excited,Rainy,Party,A cocktail dress with stylish accessories.
+652,Female,Excited,Rainy,Casual,A casual blouse with jeans and flats.
+653,Female,Excited,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+654,Female,Excited,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+655,Female,Excited,Cool,Party,A cocktail dress with stylish accessories.
+656,Female,Excited,Cool,Casual,A casual blouse with jeans and flats.
+657,Female,Mellow,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+658,Female,Mellow,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+659,Female,Mellow,Sunny,Party,A cocktail dress with stylish accessories.
+660,Female,Mellow,Sunny,Casual,A casual blouse with jeans and flats.
+661,Female,Mellow,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+662,Female,Mellow,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+663,Female,Mellow,Cloudy,Party,A cocktail dress with stylish accessories.
+664,Female,Mellow,Cloudy,Casual,A casual blouse with jeans and flats.
+665,Female,Mellow,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+666,Female,Mellow,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+667,Female,Mellow,Rainy,Party,A cocktail dress with stylish accessories.
+668,Female,Mellow,Rainy,Casual,A casual blouse with jeans and flats.
+669,Female,Mellow,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+670,Female,Mellow,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+671,Female,Mellow,Cool,Party,A cocktail dress with stylish accessories.
+672,Female,Mellow,Cool,Casual,A casual blouse with jeans and flats.
+673,Female,Droopy,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+674,Female,Droopy,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+675,Female,Droopy,Sunny,Party,A cocktail dress with stylish accessories.
+676,Female,Droopy,Sunny,Casual,A casual blouse with jeans and flats.
+677,Female,Droopy,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+678,Female,Droopy,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+679,Female,Droopy,Cloudy,Party,A cocktail dress with stylish accessories.
+680,Female,Droopy,Cloudy,Casual,A casual blouse with jeans and flats.
+681,Female,Droopy,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+682,Female,Droopy,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+683,Female,Droopy,Rainy,Party,A cocktail dress with stylish accessories.
+684,Female,Droopy,Rainy,Casual,A casual blouse with jeans and flats.
+685,Female,Droopy,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+686,Female,Droopy,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+687,Female,Droopy,Cool,Party,A cocktail dress with stylish accessories.
+688,Female,Droopy,Cool,Casual,A casual blouse with jeans and flats.
+689,Female,Sad,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+690,Female,Sad,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+691,Female,Sad,Sunny,Party,A cocktail dress with stylish accessories.
+692,Female,Sad,Sunny,Casual,A casual blouse with jeans and flats.
+693,Female,Sad,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+694,Female,Sad,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+695,Female,Sad,Cloudy,Party,A cocktail dress with stylish accessories.
+696,Female,Sad,Cloudy,Casual,A casual blouse with jeans and flats.
+697,Female,Sad,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+698,Female,Sad,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+699,Female,Sad,Rainy,Party,A cocktail dress with stylish accessories.
+700,Female,Sad,Rainy,Casual,A casual blouse with jeans and flats.
+701,Female,Sad,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+702,Female,Sad,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+703,Female,Sad,Cool,Party,A cocktail dress with stylish accessories.
+704,Female,Sad,Cool,Casual,A casual blouse with jeans and flats.
+705,Others,Excited,Sunny,Formal,Default outfit description.
+706,Others,Excited,Sunny,Ethnic,Default outfit description.
+707,Others,Excited,Sunny,Party,Default outfit description.
+708,Others,Excited,Sunny,Casual,Default outfit description.
+709,Others,Excited,Cloudy,Formal,Default outfit description.
+710,Others,Excited,Cloudy,Ethnic,Default outfit description.
+711,Others,Excited,Cloudy,Party,Default outfit description.
+712,Others,Excited,Cloudy,Casual,Default outfit description.
+713,Others,Excited,Rainy,Formal,Default outfit description.
+714,Others,Excited,Rainy,Ethnic,Default outfit description.
+715,Others,Excited,Rainy,Party,Default outfit description.
+716,Others,Excited,Rainy,Casual,Default outfit description.
+717,Others,Excited,Cool,Formal,Default outfit description.
+718,Others,Excited,Cool,Ethnic,Default outfit description.
+719,Others,Excited,Cool,Party,Default outfit description.
+720,Others,Excited,Cool,Casual,Default outfit description.
+721,Others,Mellow,Sunny,Formal,Default outfit description.
+722,Others,Mellow,Sunny,Ethnic,Default outfit description.
+723,Others,Mellow,Sunny,Party,Default outfit description.
+724,Others,Mellow,Sunny,Casual,Default outfit description.
+725,Others,Mellow,Cloudy,Formal,Default outfit description.
+726,Others,Mellow,Cloudy,Ethnic,Default outfit description.
+727,Others,Mellow,Cloudy,Party,Default outfit description.
+728,Others,Mellow,Cloudy,Casual,Default outfit description.
+729,Others,Mellow,Rainy,Formal,Default outfit description.
+730,Others,Mellow,Rainy,Ethnic,Default outfit description.
+731,Others,Mellow,Rainy,Party,Default outfit description.
+732,Others,Mellow,Rainy,Casual,Default outfit description.
+733,Others,Mellow,Cool,Formal,Default outfit description.
+734,Others,Mellow,Cool,Ethnic,Default outfit description.
+735,Others,Mellow,Cool,Party,Default outfit description.
+736,Others,Mellow,Cool,Casual,Default outfit description.
+737,Others,Droopy,Sunny,Formal,Default outfit description.
+738,Others,Droopy,Sunny,Ethnic,Default outfit description.
+739,Others,Droopy,Sunny,Party,Default outfit description.
+740,Others,Droopy,Sunny,Casual,Default outfit description.
+741,Others,Droopy,Cloudy,Formal,Default outfit description.
+742,Others,Droopy,Cloudy,Ethnic,Default outfit description.
+743,Others,Droopy,Cloudy,Party,Default outfit description.
+744,Others,Droopy,Cloudy,Casual,Default outfit description.
+745,Others,Droopy,Rainy,Formal,Default outfit description.
+746,Others,Droopy,Rainy,Ethnic,Default outfit description.
+747,Others,Droopy,Rainy,Party,Default outfit description.
+748,Others,Droopy,Rainy,Casual,Default outfit description.
+749,Others,Droopy,Cool,Formal,Default outfit description.
+750,Others,Droopy,Cool,Ethnic,Default outfit description.
+751,Others,Droopy,Cool,Party,Default outfit description.
+752,Others,Droopy,Cool,Casual,Default outfit description.
+753,Others,Sad,Sunny,Formal,Default outfit description.
+754,Others,Sad,Sunny,Ethnic,Default outfit description.
+755,Others,Sad,Sunny,Party,Default outfit description.
+756,Others,Sad,Sunny,Casual,Default outfit description.
+757,Others,Sad,Cloudy,Formal,Default outfit description.
+758,Others,Sad,Cloudy,Ethnic,Default outfit description.
+759,Others,Sad,Cloudy,Party,Default outfit description.
+760,Others,Sad,Cloudy,Casual,Default outfit description.
+761,Others,Sad,Rainy,Formal,Default outfit description.
+762,Others,Sad,Rainy,Ethnic,Default outfit description.
+763,Others,Sad,Rainy,Party,Default outfit description.
+764,Others,Sad,Rainy,Casual,Default outfit description.
+765,Others,Sad,Cool,Formal,Default outfit description.
+766,Others,Sad,Cool,Ethnic,Default outfit description.
+767,Others,Sad,Cool,Party,Default outfit description.
+768,Others,Sad,Cool,Casual,Default outfit description.
+769,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+770,Male,Excited,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+771,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+772,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+773,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+774,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+775,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+776,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+777,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+778,Male,Excited,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+779,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+780,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+781,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+782,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+783,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+784,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+785,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+786,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+787,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+788,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+789,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+790,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+791,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+792,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+793,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+794,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+795,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+796,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+797,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+798,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+799,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+800,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+801,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+802,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+803,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+804,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+805,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+806,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+807,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+808,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+809,Male,Droopy,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+810,Male,Droopy,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+811,Male,Droopy,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+812,Male,Droopy,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+813,Male,Droopy,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+814,Male,Droopy,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+815,Male,Droopy,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+816,Male,Droopy,Cool,Casual,A casual t-shirt with jeans and sneakers.
+817,Male,Sad,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+818,Male,Sad,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+819,Male,Sad,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+820,Male,Sad,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+821,Male,Sad,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+822,Male,Sad,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+823,Male,Sad,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+824,Male,Sad,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+825,Male,Sad,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+826,Male,Sad,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+827,Male,Sad,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+828,Male,Sad,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+829,Male,Sad,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+830,Male,Sad,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+831,Male,Sad,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+832,Male,Sad,Cool,Casual,A casual t-shirt with jeans and sneakers.
+833,Female,Excited,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+834,Female,Excited,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+835,Female,Excited,Sunny,Party,A cocktail dress with stylish accessories.
+836,Female,Excited,Sunny,Casual,A casual blouse with jeans and flats.
+837,Female,Excited,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+838,Female,Excited,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+839,Female,Excited,Cloudy,Party,A cocktail dress with stylish accessories.
+840,Female,Excited,Cloudy,Casual,A casual blouse with jeans and flats.
+841,Female,Excited,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+842,Female,Excited,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+843,Female,Excited,Rainy,Party,A cocktail dress with stylish accessories.
+844,Female,Excited,Rainy,Casual,A casual blouse with jeans and flats.
+845,Female,Excited,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+846,Female,Excited,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+847,Female,Excited,Cool,Party,A cocktail dress with stylish accessories.
+848,Female,Excited,Cool,Casual,A casual blouse with jeans and flats.
+849,Female,Mellow,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+850,Female,Mellow,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+851,Female,Mellow,Sunny,Party,A cocktail dress with stylish accessories.
+852,Female,Mellow,Sunny,Casual,A casual blouse with jeans and flats.
+853,Female,Mellow,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+854,Female,Mellow,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+855,Female,Mellow,Cloudy,Party,A cocktail dress with stylish accessories.
+856,Female,Mellow,Cloudy,Casual,A casual blouse with jeans and flats.
+857,Female,Mellow,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+858,Female,Mellow,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+859,Female,Mellow,Rainy,Party,A cocktail dress with stylish accessories.
+860,Female,Mellow,Rainy,Casual,A casual blouse with jeans and flats.
+861,Female,Mellow,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+862,Female,Mellow,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+863,Female,Mellow,Cool,Party,A cocktail dress with stylish accessories.
+864,Female,Mellow,Cool,Casual,A casual blouse with jeans and flats.
+865,Female,Droopy,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+866,Female,Droopy,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+867,Female,Droopy,Sunny,Party,A cocktail dress with stylish accessories.
+868,Female,Droopy,Sunny,Casual,A casual blouse with jeans and flats.
+869,Female,Droopy,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+870,Female,Droopy,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+871,Female,Droopy,Cloudy,Party,A cocktail dress with stylish accessories.
+872,Female,Droopy,Cloudy,Casual,A casual blouse with jeans and flats.
+873,Female,Droopy,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+874,Female,Droopy,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+875,Female,Droopy,Rainy,Party,A cocktail dress with stylish accessories.
+876,Female,Droopy,Rainy,Casual,A casual blouse with jeans and flats.
+877,Female,Droopy,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+878,Female,Droopy,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+879,Female,Droopy,Cool,Party,A cocktail dress with stylish accessories.
+880,Female,Droopy,Cool,Casual,A casual blouse with jeans and flats.
+881,Female,Sad,Sunny,Formal,A tailored pantsuit or a formal dress with heels.
+882,Female,Sad,Sunny,Ethnic,A saree or a lehenga with elegant jewelry.
+883,Female,Sad,Sunny,Party,A cocktail dress with stylish accessories.
+884,Female,Sad,Sunny,Casual,A casual blouse with jeans and flats.
+885,Female,Sad,Cloudy,Formal,A tailored pantsuit or a formal dress with heels.
+886,Female,Sad,Cloudy,Ethnic,A saree or a lehenga with elegant jewelry.
+887,Female,Sad,Cloudy,Party,A cocktail dress with stylish accessories.
+888,Female,Sad,Cloudy,Casual,A casual blouse with jeans and flats.
+889,Female,Sad,Rainy,Formal,A tailored pantsuit or a formal dress with heels.
+890,Female,Sad,Rainy,Ethnic,A saree or a lehenga with elegant jewelry.
+891,Female,Sad,Rainy,Party,A cocktail dress with stylish accessories.
+892,Female,Sad,Rainy,Casual,A casual blouse with jeans and flats.
+893,Female,Sad,Cool,Formal,A tailored pantsuit or a formal dress with heels.
+894,Female,Sad,Cool,Ethnic,A saree or a lehenga with elegant jewelry.
+895,Female,Sad,Cool,Party,A cocktail dress with stylish accessories.
+896,Female,Sad,Cool,Casual,A casual blouse with jeans and flats.
+897,Others,Excited,Sunny,Formal,Default outfit description.
+898,Others,Excited,Sunny,Ethnic,Default outfit description.
+899,Others,Excited,Sunny,Party,Default outfit description.
+900,Others,Excited,Sunny,Casual,Default outfit description.
+901,Others,Excited,Cloudy,Formal,Default outfit description.
+902,Others,Excited,Cloudy,Ethnic,Default outfit description.
+903,Others,Excited,Cloudy,Party,Default outfit description.
+904,Others,Excited,Cloudy,Casual,Default outfit description.
+905,Others,Excited,Rainy,Formal,Default outfit description.
+906,Others,Excited,Rainy,Ethnic,Default outfit description.
+907,Others,Excited,Rainy,Party,Default outfit description.
+908,Others,Excited,Rainy,Casual,Default outfit description.
+909,Others,Excited,Cool,Formal,Default outfit description.
+910,Others,Excited,Cool,Ethnic,Default outfit description.
+911,Others,Excited,Cool,Party,Default outfit description.
+912,Others,Excited,Cool,Casual,Default outfit description.
+913,Others,Mellow,Sunny,Formal,Default outfit description.
+914,Others,Mellow,Sunny,Ethnic,Default outfit description.
+915,Others,Mellow,Sunny,Party,Default outfit description.
+916,Others,Mellow,Sunny,Casual,Default outfit description.
+917,Others,Mellow,Cloudy,Formal,Default outfit description.
+918,Others,Mellow,Cloudy,Ethnic,Default outfit description.
+919,Others,Mellow,Cloudy,Party,Default outfit description.
+920,Others,Mellow,Cloudy,Casual,Default outfit description.
+921,Others,Mellow,Rainy,Formal,Default outfit description.
+922,Others,Mellow,Rainy,Ethnic,Default outfit description.
+923,Others,Mellow,Rainy,Party,Default outfit description.
+924,Others,Mellow,Rainy,Casual,Default outfit description.
+925,Others,Mellow,Cool,Formal,Default outfit description.
+926,Others,Mellow,Cool,Ethnic,Default outfit description.
+927,Others,Mellow,Cool,Party,Default outfit description.
+928,Others,Mellow,Cool,Casual,Default outfit description.
+929,Others,Droopy,Sunny,Formal,Default outfit description.
+930,Others,Droopy,Sunny,Ethnic,Default outfit description.
+931,Others,Droopy,Sunny,Party,Default outfit description.
+932,Others,Droopy,Sunny,Casual,Default outfit description.
+933,Others,Droopy,Cloudy,Formal,Default outfit description.
+934,Others,Droopy,Cloudy,Ethnic,Default outfit description.
+935,Others,Droopy,Cloudy,Party,Default outfit description.
+936,Others,Droopy,Cloudy,Casual,Default outfit description.
+937,Others,Droopy,Rainy,Formal,Default outfit description.
+938,Others,Droopy,Rainy,Ethnic,Default outfit description.
+939,Others,Droopy,Rainy,Party,Default outfit description.
+940,Others,Droopy,Rainy,Casual,Default outfit description.
+941,Others,Droopy,Cool,Formal,Default outfit description.
+942,Others,Droopy,Cool,Ethnic,Default outfit description.
+943,Others,Droopy,Cool,Party,Default outfit description.
+944,Others,Droopy,Cool,Casual,Default outfit description.
+945,Others,Sad,Sunny,Formal,Default outfit description.
+946,Others,Sad,Sunny,Ethnic,Default outfit description.
+947,Others,Sad,Sunny,Party,Default outfit description.
+948,Others,Sad,Sunny,Casual,Default outfit description.
+949,Others,Sad,Cloudy,Formal,Default outfit description.
+950,Others,Sad,Cloudy,Ethnic,Default outfit description.
+951,Others,Sad,Cloudy,Party,Default outfit description.
+952,Others,Sad,Cloudy,Casual,Default outfit description.
+953,Others,Sad,Rainy,Formal,Default outfit description.
+954,Others,Sad,Rainy,Ethnic,Default outfit description.
+955,Others,Sad,Rainy,Party,Default outfit description.
+956,Others,Sad,Rainy,Casual,Default outfit description.
+957,Others,Sad,Cool,Formal,Default outfit description.
+958,Others,Sad,Cool,Ethnic,Default outfit description.
+959,Others,Sad,Cool,Party,Default outfit description.
+960,Others,Sad,Cool,Casual,Default outfit description.
+961,Male,Excited,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+962,Male,Excited,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+963,Male,Excited,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+964,Male,Excited,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+965,Male,Excited,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+966,Male,Excited,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+967,Male,Excited,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+968,Male,Excited,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+969,Male,Excited,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+970,Male,Excited,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+971,Male,Excited,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+972,Male,Excited,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+973,Male,Excited,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+974,Male,Excited,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+975,Male,Excited,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+976,Male,Excited,Cool,Casual,A casual t-shirt with jeans and sneakers.
+977,Male,Mellow,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+978,Male,Mellow,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+979,Male,Mellow,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+980,Male,Mellow,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+981,Male,Mellow,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+982,Male,Mellow,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+983,Male,Mellow,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+984,Male,Mellow,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
+985,Male,Mellow,Rainy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+986,Male,Mellow,Rainy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+987,Male,Mellow,Rainy,Party,A stylish blazer over a patterned shirt and dark jeans.
+988,Male,Mellow,Rainy,Casual,A casual t-shirt with jeans and sneakers.
+989,Male,Mellow,Cool,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+990,Male,Mellow,Cool,Ethnic,A traditional kurta with churidar and a light waistcoat.
+991,Male,Mellow,Cool,Party,A stylish blazer over a patterned shirt and dark jeans.
+992,Male,Mellow,Cool,Casual,A casual t-shirt with jeans and sneakers.
+993,Male,Droopy,Sunny,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+994,Male,Droopy,Sunny,Ethnic,A traditional kurta with churidar and a light waistcoat.
+995,Male,Droopy,Sunny,Party,A stylish blazer over a patterned shirt and dark jeans.
+996,Male,Droopy,Sunny,Casual,A casual t-shirt with jeans and sneakers.
+997,Male,Droopy,Cloudy,Formal,"A western suit without a tie, white shirt beneath, and brown formal pants."
+998,Male,Droopy,Cloudy,Ethnic,A traditional kurta with churidar and a light waistcoat.
+999,Male,Droopy,Cloudy,Party,A stylish blazer over a patterned shirt and dark jeans.
+1000,Male,Droopy,Cloudy,Casual,A casual t-shirt with jeans and sneakers.
